@@ -6,10 +6,10 @@
 1. Couldn't get VSCode to publish to github
 2. Do not know what a tsv file is
 
-People I worked with
-*The amazing TAs Tim and Ty
-*Coohleen Coombes 
-*Jobelle Peralta
+- People I worked with
+   - The amazing TAs Tim and Ty
+   - Coohleen Coombes 
+   - Jobelle Peralta
 
 [Bugs I have encountered while doing this homework](https://en.wikipedia.org/wiki/Ant)
 ##### The coolest ant image:
