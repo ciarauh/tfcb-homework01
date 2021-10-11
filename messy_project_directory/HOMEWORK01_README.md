@@ -45,7 +45,7 @@ Use the URL of the GitHub repository you created above to configure the Remote.
 Now you should be able to push any further changes to your repository.
 
 _Include the link to your `tfcb-homework01` GitHub repository here._
-(https://github.com/ciarauh/tfcb-homework01/tree/master)
+(https://github.com/ciarauh/tfcb-homework01.git)
 
 ## Problem 4
 
@@ -55,7 +55,7 @@ This question assesses your ability to organize files and directories associated
 
 Organize files into a more consistent structure. Group images into a `images/` directory. Separate source code and data. Rename files to remove spaces and improve consistency. Commit changes and publish to your public GitHub repository.
 
-_Include the link to your `tfcb-homework01` GitHub repository here._
+[directory images](https://github.com/ciarauh/tfcb-homework01/tree/master/messy_project_directory/Images)
 
 ## Problem 5
 
@@ -67,7 +67,7 @@ Create a file called `README.md` and populate with Markdown. Demonstrate headers
 
 Commit this file and publish to your public GitHub repository.
 
-_Include the link to your `README.md` here._
+[link to readme](README.md)
 
 ## Problem 6
 
@@ -82,3 +82,4 @@ Export this as a tab-delimited `.tsv` text file with Unix line endings.
 Commit the modified `.xlsx` file and the `.tsv` file and publish to your public GitHub repository.
 
 _Include the link to your `.tsv` file on GitHub here._
+[Link to txt file](https://github.com/ciarauh/tfcb-homework01/blob/master/messy_project_directory/EXCEL_Spreadsheets/Survey_Data_Tidy.txt)
