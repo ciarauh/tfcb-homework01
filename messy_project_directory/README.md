@@ -12,13 +12,13 @@ People I worked with
 *Jobelle Peralta
 
 [Bugs I have encountered while doing this homework](https://en.wikipedia.org/wiki/Ant)
-#####The coolest ant image:
+##### The coolest ant image:
 ![ANTS](Images/Acanthomyrmex_ferox_casent_0901788_p_1_high.jpg)
 
 The ant that does no-shave November
 ![hairy_ant](Images/Camponotus_darwinii_casent_0191696.jpg)
 
-###Should I reject humanity and become an ant?
+### Should I reject humanity and become an ant?
 Pros | Cons
 ------------ | -------------
 Lifting heavy things | Am tiny
